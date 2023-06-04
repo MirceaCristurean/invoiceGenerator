@@ -26,7 +26,7 @@ https://react-invoice-generator.web.app/
 ### Instalation
 
 ```
-git clone https://github.com/hourmeng12/invoice-generator
+git clone https://github.com/MirceaCristurean/invoiceGenerator
 
 npm install
 
