@@ -11,9 +11,9 @@ https://react-invoice-generator.web.app/
 
 ### Screenshots
 
-<img src="https://imgur.com/rjisRPZ.jpg" style="max-width: 100px; width: 100%; height: auto;">
-<img src="https://imgur.com/vuiKcrK.jpg" style="max-width: 100px;width: 100%; height: auto;">
-<img src="https://imgur.com/bXNiAHT.jpg" style="max-width: 100px;width: 100%; height: auto;">
+<img src="img/screenshot1.png" style="max-width: 100px; width: 100%; height: auto;">
+<img src="img/screenshot2.png" style="max-width: 100px;width: 100%; height: auto;">
+<img src="img/screenshot3.png" style="max-width: 100px;width: 100%; height: auto;">
 
 ### Tools
 
